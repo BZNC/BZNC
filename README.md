@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+我是BZNC，
+
+一个自学前端的小菜鸟。
+
+目前已书写53000余字笔记，并在继续增加中。
+
+做过的项目可以在我的Repositories中查看。
+
+对很多事情充满好奇，
+
+⚡ 正在努力搬砖中。⚡ 
+
+期待能和giegie一起在互联网上愉快冲浪。😄
+
+![](https://github-readme-stats.vercel.app/api?BZNC=mayandev)
