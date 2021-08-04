@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 期待能和giegie一起在互联网上愉快冲浪。😄
 
-![](https://github-readme-stats.vercel.app/api?BZNC=mayandev)
+![](https://github-readme-stats.vercel.app/api?username=BZNC)
