@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 我是BZNC，
 
-自学前端。
+前端学习中...
 
 目前已书写53000余字笔记，并在继续增加中。
 
